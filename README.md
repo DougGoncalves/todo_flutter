@@ -1,6 +1,6 @@
-# todo
+# Lista de Tarefas - Flutter App  
 
-A new Flutter project.
+App básico para aprendizagem da componentização do Flutter 
 
 ## Getting Started
 
